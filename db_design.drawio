@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.1" pages="9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" pages="9">
   <diagram id="rRylcG1n6VvwG9cF3N-d" name="UseCase">
-    <mxGraphModel dx="1098" dy="525" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2113" dy="1031" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,19 +71,19 @@
           <mxGeometry height="50" width="140" x="450" y="350" as="geometry" />
         </mxCell>
         <mxCell id="OrMV-OhoswjqymSBNbzT-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Просмотр данных читателя" vertex="1">
-          <mxGeometry height="50" width="140" x="448" y="430" as="geometry" />
+          <mxGeometry height="50" width="140" x="448" y="668" as="geometry" />
         </mxCell>
         <mxCell id="OrMV-OhoswjqymSBNbzT-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Регистрация читателя" vertex="1">
-          <mxGeometry height="50" width="140" x="450" y="490" as="geometry" />
+          <mxGeometry height="50" width="140" x="450" y="428" as="geometry" />
         </mxCell>
         <mxCell id="OrMV-OhoswjqymSBNbzT-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Контроль сроков возврата" vertex="1">
-          <mxGeometry height="50" width="140" x="450" y="550" as="geometry" />
+          <mxGeometry height="50" width="140" x="450" y="488" as="geometry" />
         </mxCell>
         <mxCell id="OrMV-OhoswjqymSBNbzT-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Возврат книги" vertex="1">
-          <mxGeometry height="50" width="140" x="450" y="610" as="geometry" />
+          <mxGeometry height="50" width="140" x="450" y="548" as="geometry" />
         </mxCell>
         <mxCell id="OrMV-OhoswjqymSBNbzT-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Выдача книги" vertex="1">
-          <mxGeometry height="50" width="140" x="450" y="670" as="geometry" />
+          <mxGeometry height="50" width="140" x="450" y="608" as="geometry" />
         </mxCell>
         <mxCell id="OrMV-OhoswjqymSBNbzT-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Формирование отчетов" vertex="1">
           <mxGeometry height="50" width="140" x="450" y="730" as="geometry" />
@@ -102,6 +102,12 @@
         </mxCell>
         <mxCell id="OrMV-OhoswjqymSBNbzT-43" edge="1" parent="1" source="OrMV-OhoswjqymSBNbzT-3" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.605;entryDx=0;entryDy=0;entryPerimeter=0;" target="OrMV-OhoswjqymSBNbzT-21">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mmLFnb10mvoNMaM8-bxm-1" edge="1" parent="1" source="OrMV-OhoswjqymSBNbzT-3" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OrMV-OhoswjqymSBNbzT-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="196" y="860" as="sourcePoint" />
+            <mxPoint x="498" y="745" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
