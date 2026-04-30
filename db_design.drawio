@@ -2319,7 +2319,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ER-Фонда" id="zzgXH-a7pI7s7_9-9_PZ">
-    <mxGraphModel dx="2054" dy="3493" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2016" dy="3493" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="CreaFUA-4l4RDYfVfrjf-0" />
         <mxCell id="CreaFUA-4l4RDYfVfrjf-1" parent="CreaFUA-4l4RDYfVfrjf-0" />
@@ -4043,7 +4043,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ER-Организация" id="HrwXBuDK3n5WEDFK4YhF">
-    <mxGraphModel dx="1545" dy="3697" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="853" dy="3301" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Lr596lW6i8Bm12uAeCWt-0" />
         <mxCell id="Lr596lW6i8Bm12uAeCWt-1" parent="Lr596lW6i8Bm12uAeCWt-0" />
@@ -4202,7 +4202,7 @@
         </mxCell>
         <mxCell id="Lr596lW6i8Bm12uAeCWt-264" connectable="0" parent="Lr596lW6i8Bm12uAeCWt-263" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontStyle=1" value="работает в" vertex="1">
           <mxGeometry relative="1" x="0.8498" y="-2" as="geometry">
-            <mxPoint x="18" y="1" as="offset" />
+            <mxPoint x="27" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
