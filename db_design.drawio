@@ -2195,6 +2195,12 @@
             <mxPoint x="4" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wBApreZLn476Cyg9Ts7w-3" parent="1" style="shape=note;size=20;whiteSpace=wrap;html=1;" value="Экземпляр относится к одному ресурсу библиотеки (книга, журнал или аудиоматериал)." vertex="1">
+          <mxGeometry height="76" width="263.5" x="2317.5" y="-393" as="geometry" />
+        </mxCell>
+        <mxCell id="wBApreZLn476Cyg9Ts7w-5" edge="1" parent="1" source="wBApreZLn476Cyg9Ts7w-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.837;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;dashed=1;endArrow=none;endFill=0;" target="-tTCANzfWkRb-s1bYtAd-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
