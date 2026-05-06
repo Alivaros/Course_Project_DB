@@ -353,7 +353,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U-QjtAg6F890xe39Ps69" name="ER-Объединенная">
-    <mxGraphModel dx="3611" dy="963" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2996" dy="660" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -431,7 +431,7 @@
           <mxGeometry height="30" width="117" y="116" as="geometry" />
         </mxCell>
         <mxCell id="4i-koxCseVRh-jIS-qyY-24" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="Журнал" vertex="1">
-          <mxGeometry height="86" width="98" x="-1122" y="70" as="geometry" />
+          <mxGeometry height="86" width="98" x="-1133" y="70" as="geometry" />
         </mxCell>
         <mxCell id="4i-koxCseVRh-jIS-qyY-25" parent="4i-koxCseVRh-jIS-qyY-24" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="id_Журнал" vertex="1">
           <mxGeometry height="30" width="98" y="26" as="geometry" />
@@ -491,7 +491,7 @@
           <mxGeometry height="30" width="138" y="116" as="geometry" />
         </mxCell>
         <mxCell id="4i-koxCseVRh-jIS-qyY-46" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=35;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="Экземпляр" vertex="1">
-          <mxGeometry height="155" width="127" x="-1390" y="254" as="geometry" />
+          <mxGeometry height="125" width="127" x="-1390" y="254" as="geometry" />
         </mxCell>
         <mxCell id="4i-koxCseVRh-jIS-qyY-47" parent="4i-koxCseVRh-jIS-qyY-46" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="id_Экземпляр" vertex="1">
           <mxGeometry height="30" width="127" y="35" as="geometry" />
@@ -501,9 +501,6 @@
         </mxCell>
         <mxCell id="4i-koxCseVRh-jIS-qyY-49" parent="4i-koxCseVRh-jIS-qyY-46" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="статус" vertex="1">
           <mxGeometry height="30" width="127" y="95" as="geometry" />
-        </mxCell>
-        <mxCell id="4i-koxCseVRh-jIS-qyY-50" parent="4i-koxCseVRh-jIS-qyY-46" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="формат" vertex="1">
-          <mxGeometry height="30" width="127" y="125" as="geometry" />
         </mxCell>
         <mxCell id="4i-koxCseVRh-jIS-qyY-51" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="Филиал" vertex="1">
           <mxGeometry height="116" width="106" x="-978" y="364" as="geometry" />
@@ -773,8 +770,8 @@
         <mxCell id="NLx-ySitovX5OLIDxGrj-18" edge="1" parent="1" source="4i-koxCseVRh-jIS-qyY-46" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERone;startArrow=ERmany;rounded=0;startSize=8;endSize=8;endFill=0;entryX=1.001;entryY=0.112;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.003;exitY=0.173;exitDx=0;exitDy=0;exitPerimeter=0;" target="VztO2mym8I0qkdx1SomL-1" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
             <Array as="points">
-              <mxPoint x="-1410" y="281" />
-              <mxPoint x="-1410" y="323" />
+              <mxPoint x="-1423" y="276" />
+              <mxPoint x="-1423" y="323" />
               <mxPoint x="-1477" y="323" />
               <mxPoint x="-1477" y="616" />
             </Array>
